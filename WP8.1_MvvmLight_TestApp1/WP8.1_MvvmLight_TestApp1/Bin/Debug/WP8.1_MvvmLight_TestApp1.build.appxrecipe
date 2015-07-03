@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LFERNANDEZ-X1</Machine>
+    <WindowsUser>lfernandez</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a51c6739-da1a-4170-868a-8840fe7f4701</PackageIdentityName>
+    <IntermediateOutputPath>C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Bin\Debug\WP8.1_MvvmLight_TestApp1.dll">
+      <PackagePath>WP8.1_MvvmLight_TestApp1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\MvvmLightLibs.5.0.2.0\lib\wp81\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\MvvmLightLibs.5.0.2.0\lib\wp81\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\MvvmLightLibs.5.0.2.0\lib\wp81\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\MvvmLightLibs.5.0.2.0\lib\wp81\System.Windows.Interactivity.dll">
+      <PackagePath>System.Windows.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\MvvmLightLibs.5.0.2.0\lib\wp81\GalaSoft.MvvmLight.xml">
+      <PackagePath>GalaSoft.MvvmLight.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\MvvmLightLibs.5.0.2.0\lib\wp81\GalaSoft.MvvmLight.Extras.xml">
+      <PackagePath>GalaSoft.MvvmLight.Extras.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\MvvmLightLibs.5.0.2.0\lib\wp81\GalaSoft.MvvmLight.Platform.xml">
+      <PackagePath>GalaSoft.MvvmLight.Platform.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.xml">
+      <PackagePath>Microsoft.Practices.ServiceLocation.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

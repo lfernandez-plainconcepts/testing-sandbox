@@ -1,0 +1,31 @@
+﻿<xapCache source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Bin\Debug\WP8._1_MvvmLight_TestApp1_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="03/07/2015 11:54:07">
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="03/07/2015 11:54:06" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\obj\Debug\WP8.1_MvvmLight_TestApp1.dll" archivePath="WP8.1_MvvmLight_TestApp1.dll" lastWriteTime="03/07/2015 11:54:06" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="03/07/2015 11:53:54" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="03/07/2015 11:53:54" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="03/07/2015 11:53:54" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="03/07/2015 11:53:54" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="03/07/2015 11:53:54" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="03/07/2015 11:53:54" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="03/07/2015 11:53:54" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="03/07/2015 11:53:54" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="03/07/2015 11:53:54" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="03/07/2015 11:53:54" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="03/07/2015 11:53:54" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="03/07/2015 11:53:54" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="03/07/2015 11:54:07" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="03/07/2015 11:53:54" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="03/07/2015 11:53:54" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\MvvmLightLibs.5.0.2.0\lib\wp81\GalaSoft.MvvmLight.dll" archivePath="GalaSoft.MvvmLight.dll" lastWriteTime="03/07/2015 11:53:59" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\MvvmLightLibs.5.0.2.0\lib\wp81\GalaSoft.MvvmLight.Extras.dll" archivePath="GalaSoft.MvvmLight.Extras.dll" lastWriteTime="03/07/2015 11:53:59" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\MvvmLightLibs.5.0.2.0\lib\wp81\GalaSoft.MvvmLight.Platform.dll" archivePath="GalaSoft.MvvmLight.Platform.dll" lastWriteTime="03/07/2015 11:53:59" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll" archivePath="Microsoft.Practices.ServiceLocation.dll" lastWriteTime="03/07/2015 11:53:57" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\MvvmLightLibs.5.0.2.0\lib\wp81\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="03/07/2015 11:53:59" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\MvvmLightLibs.5.0.2.0\lib\wp81\GalaSoft.MvvmLight.xml" archivePath="GalaSoft.MvvmLight.xml" lastWriteTime="03/07/2015 11:53:59" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\MvvmLightLibs.5.0.2.0\lib\wp81\GalaSoft.MvvmLight.Extras.xml" archivePath="GalaSoft.MvvmLight.Extras.xml" lastWriteTime="03/07/2015 11:53:59" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\MvvmLightLibs.5.0.2.0\lib\wp81\GalaSoft.MvvmLight.Platform.xml" archivePath="GalaSoft.MvvmLight.Platform.xml" lastWriteTime="03/07/2015 11:53:59" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.xml" archivePath="Microsoft.Practices.ServiceLocation.xml" lastWriteTime="03/07/2015 11:53:57" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="03/07/2015 11:54:07" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="03/07/2015 11:54:07" />
+  <file source="C:\TFS\LFB\WP8.1_MvvmLight_TestApp1\WP8.1_MvvmLight_TestApp1\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="03/07/2015 11:54:07" />
+</xapCache>
